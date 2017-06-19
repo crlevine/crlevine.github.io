@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title: Site Title
+title: Cindy Levine
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: CindyLevine
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: crlevine@ncsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: cindylevine14
   linkedin: #username
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)

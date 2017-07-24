@@ -7,13 +7,17 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1981-1982`
+__Emory University__
+Masters of Librarianship
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`1978 - 1981`
+__North Carolina State University__
+M.S. Counselor Education
+
+`1974 - 1978`
+__University of North Carolina at Chapel Hill__
+A.B. Religion
 
 ## Awards
 

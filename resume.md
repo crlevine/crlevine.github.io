@@ -30,8 +30,9 @@ Name of Award, Organization
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
+`2013`
+Levine, Cindy, and Bryna Coonin, “Getting Things Right …” The Reference Librarian 54.1 (2013).
+
 
 `1994`
 Article Title, Journal Title

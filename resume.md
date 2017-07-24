@@ -34,8 +34,21 @@ Name of Award, Organization
 Levine, Cindy, and Bryna Coonin, “Getting Things Right …” The Reference Librarian 54.1 (2013).
 
 
-`1994`
-Article Title, Journal Title
+`2000`
+Dewald, Nancy, Ann Scholz-Crane, Austin Booth, and Cynthia Levine. "Information Literacy at a Distance: Instructional Design Issues." Journal of Academic Librarianship 26 (2000): 33-44.
+
+`1996`
+Levine, Cindy "What We Wish They Knew When They Got Here: an Academic Librarian's Perspective." North Carolina Libraries Spring (1996): 19-21.
+
+`1995`
+Sutton, Ellen D., Richard Feinberg, Cynthia R. Levine, Jennie S. Sandberg, and Janice M. Wilson. "Bibliographic Instruction in Psychology: a Review of the Literature." Reference Services Review 23.3 (1995): 13-22.
+
+`1990`
+Levine, Cynthia, “Selective Bibliography on Library Performance Measures.” North Carolina Libraries Fall (1990): 215-217.
+
+`1988`
+Gebbie, Janet, Timothy Carstens, Audrey Cordes, Cynthia Levine, Margaret Ann Link, Loretta Mershon, and Raymond Taylor. “Determining the Minimum Number of Terminals for an Online Catalog at a University Research Library” Journal of Library Administration 3 (1988): 49-56.
+
 
 ### Books
 
